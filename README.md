@@ -1,2 +1,2 @@
-# ReactQuery-Zustand-Bolier
-a bolier plate code for Tanstack Query with Zustan
+# ReactQuery-Zustand-Boiler
+a boiler plate code for Tanstack Query with Zustan
